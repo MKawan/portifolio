@@ -9,7 +9,7 @@
     "hardSkills": [
       {
         "name": "Nodejs",
-        "logo": "https://github.com/MKawan/portifolio/blob/main/data/imgs/nodejs.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
         "name": "JavaScript",
@@ -17,7 +17,7 @@
       },
       {
         "name": "TypeScript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/ts.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/typescript.png"
       },
       {
         "name": "C# .Net",
